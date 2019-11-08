@@ -7,7 +7,7 @@ import DisCount from './components/DisCount'
 import LikeList from './components/LikeList'
 import HomeHeader from './components/HomeHeader'
 import Footer from '../../components/Footer'
-import Banner from './components/Banner'
+import Banner from '../../components/Banner'
 import Activity from './components/Activity'
 import { actions as homeActions, getLikes, getDiscounts, getPageCountsOfLikes } from '../../redux/modules/home'
 

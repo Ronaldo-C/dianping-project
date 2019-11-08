@@ -18,7 +18,7 @@
 .banner__logo {
   height: 30px;
   width: 30px;
-  background-image: url('../../../../images/logo.png');
+  background-image: url('../../images/logo.png');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -51,5 +51,5 @@
 
 .banner__btn--bg {
   color: #fff;
-  background-color: #f63;
+  background-color: #f63; 
 }

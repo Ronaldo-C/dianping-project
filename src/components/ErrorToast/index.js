@@ -3,11 +3,11 @@ import './style.css'
 
 class ErrorToast extends Component {
     render() {
-        const  { msg } = this.props
+        const { error } = this.props
         return (
             <div className="errorToast">
                 <div className="errorToast__text">
-                    {msg}
+                    {error}
                 </div>
             </div>
         );
